@@ -1,2 +1,2 @@
 # ESTE ES MI PRIMER PROYECTO 
-  ### Este es mi primer readme :EMOJICODe: :sunglasses:
+  ### Este es mi primer readme  :sunglasses:
